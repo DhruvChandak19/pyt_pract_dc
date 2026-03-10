@@ -12,8 +12,6 @@ class car(Vehicle):
    def movie(self):
       print("car is moving")
       
-
-
 a=bike()
 b=car()
 
